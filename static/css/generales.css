@@ -419,6 +419,10 @@
     align-items: center;
 }
 
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
 /* Display */
 
 .d-flex {

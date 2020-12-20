@@ -483,6 +483,8 @@
     border-radius: 40px!important;
 }
 
+/* Botones */
+
 .btn {
     display: inline-block!important;
     font-weight: 400!important;
@@ -499,11 +501,16 @@
     line-height: 1.5!important;
     border-radius: .25rem!important;
     transition: color .15s ease-in-out, background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out!important;
-    color: #ffffff!important;
-    background-color: #0091FB!important;
-    border-color: #0091FB!important;
+    color: #ffffff;
+    background-color: #0091FB;
+    border-color: #0091FB;
 }
 
+.btn-secondary {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: #0091FB;
+}
 /* Listas */
 
 .list-style-none {

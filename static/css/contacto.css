@@ -1,0 +1,9 @@
+.seccion-formulario {
+    border-radius: 5%;
+    border-color: #0091FB!important;
+}
+
+input, textarea {
+    border: solid 2px #000000;
+    border-radius: 10px;
+}

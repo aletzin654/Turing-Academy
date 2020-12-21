@@ -19,7 +19,7 @@ Turing academy es un proyecto de la materia
 - MySQL (Versión por definir)
 - Servidor APACHE
 - Navegador web
-- Conexión a internet 
+- Conexión a internet Infinitum es la red
 
 ### Instalación
 
@@ -34,4 +34,8 @@ Sin instrucciones de uso hasta el momento
 - Fernández García Alexis - [@aletzin654](https://github.com/aletzin654)
 - Parroquin Flores Alan
 - Ramírez Fuentes Edgar Alejandro - [@EdgarRamirezFuentes](https://github.com/EdgarRamirezFuentes)
+<<<<<<< HEAD
 - Rivera Lara José Alberto El pepe - [@JoseRivera404](https://github.com/JoseRivera404)
+=======
+- Rivera Lara José - [@JoseRivera404](https://github.com/JoseRivera404)
+>>>>>>> 01f4b6c5c8d77a7e09e4c74e22b777d1bfbdc7ee

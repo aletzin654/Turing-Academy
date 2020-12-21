@@ -34,4 +34,4 @@ Sin instrucciones de uso hasta el momento
 - Fernández García Alexis - [@aletzin654](https://github.com/aletzin654)
 - Parroquin Flores Alan
 - Ramírez Fuentes Edgar Alejandro - [@EdgarRamirezFuentes](https://github.com/EdgarRamirezFuentes)
-- Rivera Lara José Alberto - [@JoseRivera404](https://github.com/JoseRivera404)
+- Rivera Lara José Alberto El pepe - [@JoseRivera404](https://github.com/JoseRivera404)

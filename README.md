@@ -32,6 +32,6 @@ Sin instrucciones de uso hasta el momento
 ## Contribuidores <a name = "Contribuidores"></a>
 
 - Fernández García Alexis - [@aletzin654](https://github.com/aletzin654)
-- Parroquin Flores Alan
+- Parroquin Flores Alan - [@alan1997parroquin](https://github.com/alan1997parroquin)
 - Ramírez Fuentes Edgar Alejandro - [@EdgarRamirezFuentes](https://github.com/EdgarRamirezFuentes)
 - Rivera Lara José Alberto - [@JoseRivera404](https://github.com/JoseRivera404)

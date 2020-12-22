@@ -1,4 +1,9 @@
 .Mapa{
     margin-left: auto;
     margin-right: auto;
+    position: relative;
+}
+#ContPrincipal{
+    border-color: none;
+    position: relative;
 }

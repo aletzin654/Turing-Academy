@@ -27,7 +27,7 @@ Proyecto en etapa de análisis
 
 ## Uso <a name = "Uso"></a>
 
-Sin instrucciones de uso hasta el momento
+Sin instrucciones de uso hasta el momento 2
 
 ## Contribuidores <a name = "Contribuidores"></a>
 

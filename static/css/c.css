@@ -1,9 +1,27 @@
 .Mapa{
-    position: relative;
-    left: auto;
-    right: auto;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 7%;
+    width: 40%;
+    height: 40%;
 }
-#ContPrincipal{
-    border-color: none;
+#Contprincipal{
     position: relative;
+    
+}
+img{
+    width: 444px;
+    height: 423px;
+    position: relative;
+}
+.temario{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+    font-family: Arial;
+}
+li{
+    font-family: Arial;
 }

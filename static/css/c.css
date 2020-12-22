@@ -1,8 +1,7 @@
 .Mapa{
-    margin-left: auto;
-    margin-right: auto;
     position: relative;
-    border-color: none;
+    left: auto;
+    right: auto;
 }
 #ContPrincipal{
     border-color: none;

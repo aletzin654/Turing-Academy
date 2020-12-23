@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./static/css/index.css">
     <link rel="stylesheet" href="./static/css/normalize.css">
     <link rel="stylesheet" href="./static/css/generales.css">
+    <link rel="stylesheet" href="./static/css/perfil.css">
 </head>
 
 <body>
@@ -23,34 +24,48 @@
                 <a class="text-decoration-none text-secondary  font-size-1_5 font-weight-bold"href="./nosotros.html"><span class="texto-opcion-barra-navegacion">Nosotros</span></a>
                 <a class="text-decoration-none text-secondary  font-size-1_5 font-weight-bold"href="./contacto.html"><span class="texto-opcion-barra-navegacion">Contacto</span></a>
                 <a class="text-decoration-none text-secondary  font-size-1_5 font-weight-bold"href="./perfil.html"><span class="texto-opcion-barra-navegacion">Perfil</span></a>
-                <a class="text-decoration-none text-secondary  font-size-1_5 font-weight-bold"href="./iniciarSesion.html"><span class="texto-opcion-barra-navegacion">Iniciar sesi&oacute;n</span></a>
+                <a class="text-decoration-none text-secondary  font-size-1_5 font-weight-bold"href="./iniciarSesion.html"><span class="texto-opcion-barra-navegacion">Cerrar sesi&oacute;n</span></a>
             </div>
         </div>
     </div>
-    <div class="container my-5">
-        <div class="informacion">
-            <div class="seccion-bienvenida d-flex align-items-center flex-column">
-                <span class="title-1 font-weight-bold">Bienvenido a Turing academy</span>
-                <img class="w-50 my-5 rounded" src="./static/img/hello.png" alt="hola mundo" >
-                <p class="text-center title-3">Aprende las tecnologías del futuro con la ayuda de nuestros expertos</p>
-                <div class="tecnologias my-5 d-flex justify-content-around">
-                    <img src="./static/img/c_logo.png" alt="c">
-                    <img src="./static/img/database.png" alt="database">
-                    <img src="./static/img/python_logo.png" alt="python">
-                    <img src="./static/img/php_logo.png" alt="php">
-                    <img src="./static/img/java_logo.png" alt="java">
+    <div class="principal">
+        <div class="d-flex">
+            <div class="w-20">
+                <img src="./static/img/usuario.png" alt="usuario per">
+            </div>
+            <div class="info w-30 ">
+                <h3>Nombres</h3>
+                <h3>Apellido Paterno</h3>
+                <h3>Apellido Materno</h3>
+            </div>
+            <div class="w-50 fondo">
+                <h3>Usuario:</h3>
+                <h3>Correo:</h3>
+                <h3>Telefono:</h3>
+            </div>
+        </div>
+        <div class="ContenedorDip">
+            <div class="d-flex centrado">
+                <div class ="d-flex w-50 flex-column">
+                    <div class ="w-100 Reconocimientos">
+                       <h3 class="dop">Diploma</h3>
+                    </div>
+                    <div class="h-60">
+                    </div>
+                    <div class ="w-100 Reconocimientos">
+                       <h3 class="dop">Master</h3>
+                    </div>
                 </div>
-            </div>
-            <div class="seccion-calendario my-5 text-center">
-                <span class="title-2 font-weight-bold">Calendario de actividades</span>
-                <div id="calendario" class="h-100"></div>
-            </div>
+                <div class="w-5">
+                </div>
+                <div class ="w-46">
+                     <h3 class="dop"> Certificado</h3>
+                 </div>
+               </div>
         </div>
     </div>
     <div class="bg-primary py-3 d-flex align-items-center contenedor-footer w-100">
         <span class="text-secondary w-100 text-center">Turing Academy &copy 2020</span>
-    </div>
-    <script src="https://cdn.jsdelivr.net/combine/npm/fullcalendar@5.4.0,npm/fullcalendar@5.4.0/main.min.js,npm/fullcalendar@5.4.0/locales-all.min.js,npm/fullcalendar@5.4.0/locales-all.min.js"></script>
-    <script src="./static/js/index.js"></script>
+    </div>    
+   
 </body>
-</html>

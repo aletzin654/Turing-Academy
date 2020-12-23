@@ -1,0 +1,58 @@
+.principal{
+    width: 1400px;
+    height: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+}
+h3{
+    font-family: Arial;
+}
+.fondo{
+    background-color: #ACADAC ;
+    margin-top: 30px;
+    height: 150px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.ContenedorDip{
+    margin-top: 3%;
+    background-color: #FBF1F1;
+    padding: 1% 1% 1% 1%;
+    height: 600px!important;
+    width: 98%;
+}
+.centrado{
+    margin-top: 40px;
+    margin-bottom: auto;
+}
+.Reconocimientos{
+    background-color:  #E4BCBC;
+    height: 250px;
+}
+.info{
+    background-color: #FFFF;
+    padding-top: 30px;
+}
+.dop{
+    text-align: center;
+}
+.w-46{
+    width: 46%!important;
+    height: 530px;
+    background-color:  #E4BCBC;
+}
+.w-5{
+    width: 5%!important;
+    background-color: #FBF1F1;
+}
+.h-60{
+    height: 30px!important;
+    background-color: #FBF1F1;
+}
+.w-20{
+    width: 20%!important;
+}
+.w-30{
+    width: 30%!important;
+}

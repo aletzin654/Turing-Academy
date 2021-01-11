@@ -9,7 +9,7 @@
 ## Acerca del proyecto <a name = "Acerca"></a>
 
 Turing academy es un proyecto de la materia
-"Tecnologías para la web" de la Escuela Superior de Cómputo (ESCOM-IPN), el cual tiene como objetivo poner en práctica todos los conocimientos adquiridos creando un sistema web capaz de brindar información  de cursos al público abierto, permitir administrar los cursos y alumnos de la escuela Turing Academy.
+"Tecnologías para la web" de la Escuela Superior de Cómputo (ESCOM-IPN), el cual tiene como objetivo poner en práctica todos los conocimientos adquiridos gcreando un sistema web capaz de brindar información  de cursos al público abierto, permitir administrar los cursos y alumnos de la escuela Turing Academy.
 
 ### Prerequisitos
 

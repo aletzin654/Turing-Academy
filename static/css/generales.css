@@ -19,6 +19,9 @@
     color: #0091FB!important;
 }
 
+.text-danger {
+    color: #ff0000!important;
+}
 /* Font */
 
 .font-weight-bold {
